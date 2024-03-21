@@ -211,6 +211,8 @@ footer a img {
   /**------cambios----------*/
   .navbar {
     display:flex;
+    height: auto;
+
   }
 
   .menu {
